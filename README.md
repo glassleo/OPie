@@ -1,13 +1,8 @@
 # OPie Continued
 
-This is a fan update of the addon [OPie](https://www.curseforge.com/wow/addons/opie) by Foxlit who no longer maintains his addons.
+This is a fan update of the addon [OPie](https://www.curseforge.com/wow/addons/opie) by Foxlit who no longer maintains their addons.
 
-Unfortunately copyright is a thing and Foxlit is somewhat of an asshole when it comes to letting people continue where he left off. While he has every right to do so legally, it really sucks for everyone who have come to rely on the addons.
-
-Here I am ignoring copyright law, which is why this repo is currently private. Will need to find a better solution long-term.
-
-
-## Change Log
+## Changes
 Last official release was Xe 6 on Jun 28, 2021
 
 ### Ys 1
@@ -16,3 +11,12 @@ Last official release was Xe 6 on Jun 28, 2021
 - The Broker Translocation Matrix toy now displays properly
 - Added code to override slice color by icon ID through a global table (Example: ``ZA.IconColors["MyTexture"] = 'ff00ff'``)
   - This lets third-party addons set the automatic color for specific textures, which is useful if you are using custom made icons
+
+---
+
+## Legal
+All of the original code was written by Foxlit. I claim no rights to anything in this repository.
+
+Technically I have no rights to update the addon, even though it can be considered abandonware. It was released without a license which under US law defaults to "all rights reserved". I have chosen to ignore this for the time being.
+
+If you have any issues with this repository or would like me to take it down, please [get in touch](mailto:hello@leo.fisk) and I will make sure to respond as soon as possible.
