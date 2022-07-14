@@ -4,7 +4,7 @@ This is a fan update of the World of Warcraft addon [OPie](https://www.curseforg
 
 Due to any potential legal issues the addon will not be released on Curse or Wago.
 
-## About OPie
+## OPie
 OPie is a radial action-binding addon for World of Warcraft. It lets you group actions into rings, which appear when you hold down a keyboard or mouse binding. When you release the binding, OPie will perform an action based on where your mouse cursor is.
 
 Use OPie to reduce the amount of clutter on your action bars: slices in OPie rings can contain your abilities, your pets' abilities, items, professions, battle pets, equipment sets, macros, and raid or world markers. Some rings for common class abilities and professions are included, as is a special quest items ring which automatically makes all of your quest and quest-starting items easily accessible. Other addons may add additional rings; for example, Spade uses OPie rings to let you chose the seeds you want to plant on your farm.
