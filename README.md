@@ -18,7 +18,7 @@ Last official release was Xe 6 on Jun 28, 2021
 ---
 
 ## Legal
-All of the original code was written by Foxlit. I claim no rights to anything in this repository. The code is released "as is" under the assumption that Fair Use applies.
+All of the original code was written by Foxlit. I claim no rights to anything in this repository. The code is released "as is" under the assumption that "Fair Use" applies according to Section 107 of the Copyright Act.
 
 ### Fair Use
 1. The use is of nonprofit personal nature. The use may also be considered transformative since new features and bug fixes have been added.
