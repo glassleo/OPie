@@ -4,15 +4,6 @@ This is a fan update of the World of Warcraft addon [OPie](https://www.curseforg
 
 Due to any potential legal issues the addon will not be released on Curse or Wago.
 
-## Changes
-
-### Ys 1
-- Updated TOC for patch 9.2.5
-- Removed hardcoded checks for covenant hearthstone toys, since they can be used by anyone once you reach Renown 80
-- The Broker Translocation Matrix toy now displays properly
-- Added code to override slice color by icon ID through a global table (Example: ``ZA.IconColors["MyTexture"] = 'ff00ff'``)
-  - This lets third-party addons set the automatic color for specific textures, which is useful if you are using custom made icons
-
 ---
 
 ## Legal
