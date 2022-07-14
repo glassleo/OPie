@@ -11,6 +11,9 @@ Use OPie to reduce the amount of clutter on your action bars: slices in OPie rin
 
 After installing OPie, configure it to your liking (`/opie`), and customize your rings (`/opie rings`). See the [Guide](https://github.com/glassleo/OPie/wiki/The-Guide) for more details.
 
+- [Extended macros](https://github.com/glassleo/OPie/wiki/Extended-macros)
+- [Extended macro conditionals](https://github.com/glassleo/OPie/wiki/Extended-macro-conditionals)
+
 ---
 
 ## Legal
