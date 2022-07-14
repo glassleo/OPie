@@ -524,7 +524,7 @@ sliceDetail = CreateFrame("Frame", nil, ringContainer) do
 			GameTooltip:SetOwner(self, "ANCHOR_TOP")
 			GameTooltip:AddLine(L"Conditional Visibility")
 			GameTooltip:AddLine((L"If this macro conditional evaluates to %s, or if none of its clauses apply, this slice will be hidden."):format(GREEN_FONT_COLOR_CODE .. "hide" .. "|r"), HIGHLIGHT_FONT_COLOR.r, HIGHLIGHT_FONT_COLOR.g, HIGHLIGHT_FONT_COLOR.b, 1)
-			GameTooltip:AddLine((L"You may use extended macro conditionals; see %s for details."):format("|cff33DDFFhttps://townlong-yak.com/addons/opie/extended-conditionals|r"), HIGHLIGHT_FONT_COLOR.r, HIGHLIGHT_FONT_COLOR.g, HIGHLIGHT_FONT_COLOR.b, 1)
+			GameTooltip:AddLine((L"You may use extended macro conditionals; see %s for details."):format("|cff33DDFFhttps://github.com/glassleo/OPie/wiki/Extended-macro-conditionals|r"), HIGHLIGHT_FONT_COLOR.r, HIGHLIGHT_FONT_COLOR.g, HIGHLIGHT_FONT_COLOR.b, 1)
 			GameTooltip:AddLine((L"Example: %s."):format(GREEN_FONT_COLOR_CODE .. "[nocombat][mod]|r"), NORMAL_FONT_COLOR.r, NORMAL_FONT_COLOR.g, NORMAL_FONT_COLOR.b)
 			GameTooltip:AddLine((L"Example: %s."):format(GREEN_FONT_COLOR_CODE .. "[combat,@target,noexists] hide; show|r"), NORMAL_FONT_COLOR.r, NORMAL_FONT_COLOR.g, NORMAL_FONT_COLOR.b)
 			GameTooltip:Show()
