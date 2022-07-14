@@ -7,10 +7,11 @@ Unfortunately copyright is a thing and Foxlit is somewhat of an asshole when it 
 Here I am ignoring copyright law, which is why this repo is currently private. Will need to find a better solution long-term.
 
 
-## Changes since the last official release (Xe 6, Jun 28, 2021)
+## Change Log
+
+- Last official release was Xe 6 on Jun 28, 2021
 
 ### Ys 1
-
 - Updated TOC for patch 9.2.5
 - Covenant hearthstone toys now always appear in rings
   - If you have reached renown 80, the toy becomes useable by all your characters regardless of their covenant choice
