@@ -1,4 +1,4 @@
-# OPie Continued
+# OPie, Continued
 
 This is a fan update of the World of Warcraft addon [OPie](https://www.curseforge.com/wow/addons/opie) written by Foxlit who no longer maintains their addons.
 
