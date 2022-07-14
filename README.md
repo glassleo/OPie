@@ -15,7 +15,7 @@ After installing OPie, configure it to your liking (`/opie`), and customize your
 ---
 
 ## Legal
-All of the original code was written by Foxlit. I claim no rights to anything in this repository. The code is released "as is" under the assumption that "Fair Use" applies according to Section 107 of the Copyright Act:
+All of the original code was written by Foxlit. I claim no rights to anything in this repository. The code is released "as is" under the assumption that Fair Use applies according to Section 107 of the Copyright Act:
 
 1. The use is of nonprofit nature.
 2. The use may be considered transformative as new features have been added and bugs have been fixed.
