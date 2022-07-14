@@ -11,6 +11,8 @@ This is a fan update of the addon [OPie](https://www.curseforge.com/wow/addons/o
 - Added code to override slice color by icon ID through a global table (Example: ``ZA.IconColors["MyTexture"] = 'ff00ff'``)
   - This lets third-party addons set the automatic color for specific textures, which is useful if you are using custom made icons
 
+---
+
 Last official release was Xe 6 on Jun 28, 2021
 
 ---
