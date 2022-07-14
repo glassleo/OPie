@@ -13,17 +13,11 @@ This is a fan update of the World of Warcraft addon [OPie](https://www.curseforg
 
 ---
 
-Last official release was Xe 6 on Jun 28, 2021
-
----
-
 ## Legal
-All of the original code was written by Foxlit. I claim no rights to anything in this repository. The code is released "as is" under the assumption that "Fair Use" applies according to Section 107 of the Copyright Act.
+All of the original code was written by Foxlit. I claim no rights to anything in this repository. The code is released "as is" under the assumption that "Fair Use" applies according to Section 107 of the Copyright Act:
 
-### Fair Use
 1. The use is of nonprofit personal nature. The use may also be considered transformative since new features and bug fixes have been added.
 2. The work is highly technical in nature.
 3. The unlicensed use does not harm any existing or future market for the copyright owner.
 
-### Contact
-If you have any issues with this repository, please [get in touch](mailto:hello@leo.fisk) and I will make sure to respond as soon as possible.
+If you have any legal issues, please [get in touch](mailto:hello@leo.fisk) and I will make sure to respond as soon as possible.
