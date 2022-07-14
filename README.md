@@ -12,7 +12,6 @@ Last official release was Xe 6 on Jun 28, 2021
 
 ### Ys 1
 - Updated TOC for patch 9.2.5
-- Removed hardcoded checks for covenant hearthstone toys
-  - If you have reached renown 80, the toy becomes useable by all your characters regardless of their covenant choice
+- Removed hardcoded checks for covenant hearthstone toys, since they can be used by anyone once you reach Renown 80
 - The Broker Translocation Matrix toy now displays properly
 - Added code to override icon color by texture through a global variable (``ZA.IconColors``) 
