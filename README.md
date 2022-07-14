@@ -24,4 +24,4 @@ All of the original code was written by Foxlit. I claim no rights to anything in
 3. The work is technical in nature.
 4. The unlicensed use does not harm any existing or future market for the copyright owner.
 
-If you have any legal issues, please [get in touch](mailto:hello@leo.fisk) and I will make sure to respond as soon as possible.
+For any legal issues, please [get in touch](mailto:hello@leo.fisk) and I will make sure to respond as soon as possible.
