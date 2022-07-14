@@ -1,8 +1,6 @@
 # OPie, Continued
 
-This is a fan update of the World of Warcraft addon [OPie](https://www.curseforge.com/wow/addons/opie) written by Foxlit who no longer maintains their addons.
-
-Due to any potential legal issues the addon will not be released on Curse or Wago.
+This is a fan update of the World of Warcraft addon [OPie](https://www.curseforge.com/wow/addons/opie) written by Foxlit.
 
 ## OPie
 OPie is a radial action-binding addon for World of Warcraft. It lets you group actions into rings, which appear when you hold down a keyboard or mouse binding. When you release the binding, OPie will perform an action based on where your mouse cursor is.
