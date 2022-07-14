@@ -8,8 +8,7 @@ Here I am ignoring copyright law, which is why this repo is currently private. W
 
 
 ## Change Log
-
-- Last official release was Xe 6 on Jun 28, 2021
+Last official release was Xe 6 on Jun 28, 2021
 
 ### Ys 1
 - Updated TOC for patch 9.2.5
